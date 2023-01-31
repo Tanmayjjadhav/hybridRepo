@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[the test has been starterd]]>
+    </line>
+    <line>
+      <![CDATA[the test has been starterd]]>
+    </line>
+    <line>
+      <![CDATA[the test has been starterd]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-11-15T15:18:26 IST" name="Suite" finished-at="2022-11-15T15:19:08 IST" duration-ms="41505">
+    <groups>
+    </groups>
+    <test started-at="2022-11-15T15:18:26 IST" name="Test" finished-at="2022-11-15T15:19:08 IST" duration-ms="41505">
+      <class name="testpackage.TestActiTimeInvalidLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpackage.TestActiTimeInvalidLogin@a3d8174]" started-at="2022-11-15T15:18:26 IST" name="setUp" finished-at="2022-11-15T15:18:29 IST" duration-ms="3384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidLoginToActiTime()[pri:0, instance:testpackage.TestActiTimeInvalidLogin@a3d8174]" started-at="2022-11-15T15:18:29 IST" name="invalidLoginToActiTime" finished-at="2022-11-15T15:18:53 IST" duration-ms="23400" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[the test has been starterd]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- invalidLoginToActiTime -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testpackage.TestActiTimeInvalidLogin@a3d8174]" started-at="2022-11-15T15:18:53 IST" name="tearDown" finished-at="2022-11-15T15:18:54 IST" duration-ms="845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testpackage.TestActiTimeInvalidLogin -->
+      <class name="testpackage.TestActiTimeValidLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpackage.TestActiTimeValidLogin@49c7b90e]" started-at="2022-11-15T15:18:54 IST" name="setUp" finished-at="2022-11-15T15:18:56 IST" duration-ms="2390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidLogin()[pri:0, instance:testpackage.TestActiTimeValidLogin@49c7b90e]" started-at="2022-11-15T15:18:56 IST" name="testValidLogin" finished-at="2022-11-15T15:19:00 IST" duration-ms="3622" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[the test has been starterd]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testpackage.TestActiTimeValidLogin@49c7b90e]" started-at="2022-11-15T15:19:00 IST" name="tearDown" finished-at="2022-11-15T15:19:01 IST" duration-ms="951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testpackage.TestActiTimeValidLogin -->
+      <class name="testpackage.TestActiTimeLogout">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testpackage.TestActiTimeLogout@10d307f1]" started-at="2022-11-15T15:19:01 IST" name="setUp" finished-at="2022-11-15T15:19:03 IST" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logout()[pri:0, instance:testpackage.TestActiTimeLogout@10d307f1]" started-at="2022-11-15T15:19:03 IST" name="logout" finished-at="2022-11-15T15:19:07 IST" duration-ms="3723" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[the test has been starterd]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testpackage.TestActiTimeLogout@10d307f1]" started-at="2022-11-15T15:19:07 IST" name="tearDown" finished-at="2022-11-15T15:19:08 IST" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testpackage.TestActiTimeLogout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
